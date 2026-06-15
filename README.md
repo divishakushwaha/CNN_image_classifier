@@ -7,7 +7,7 @@ A convolutional neural network built from scratch in PyTorch to classify images
 into 10 categories: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 
 ## Live Demo
-[Add your Streamlit link here once deployed]
+(https://cnnimageclassifier-hd96eprefa99y2u8phfkjw.streamlit.app/)
 
 ## Overview
 This project implements a CNN architecture (3 convolutional blocks + fully 
